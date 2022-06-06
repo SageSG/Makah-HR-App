@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "MAKAH HR Application",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

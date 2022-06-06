@@ -1,0 +1,7 @@
+{
+  "name": "MAKAH HR Application",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

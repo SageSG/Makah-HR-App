@@ -1,0 +1,124 @@
+.grid-main{
+  padding: 10px 19px 19px 19px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+.toolbar-container {
+  padding: 0 16px;
+}
+
+.title{
+  margin: 8px 0 4px 0; 
+  font-weight: bold
+}
+
+.taskTitle {
+  /* background: white; */
+  /* padding: 8px; */
+  /* font-size: 18px; */
+  padding-top: 0px; 
+}
+
+.singleTask {
+  /* border-top: 1px solid lightgrey; */
+  padding: 8px 0px 8px 8px;
+  font-size: 14px;
+  background: white;
+}
+
+.ion-grid {
+  /* background: #ffffff; */
+  /* border-radius: 8px; */
+  margin:0;
+  padding:0;
+}
+
+.taskList {
+  font-weight: 500;
+  text-transform:uppercase;
+  font-size:12px;
+  letter-spacing: 1px;
+/*   color: black; */
+  color: grey;
+  /* padding: 4px 0; */
+  background-color:var(--ion-background-color);
+}
+
+.card-wrapper{
+  margin-top: 16px;
+  /* border:  1px solid #fafafa; */
+  /* box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); */
+}
+
+.statusBox-ns {
+  background: maroon;
+  color: white;
+  font-size: 12px;
+  border-radius: 8px;
+  text-align: center;
+  width: 80%;
+  height: 80%;
+}
+
+.statusBox-ip {
+  background: orange;
+  color: white;
+  font-size: 12px;
+  border-radius: 8px;
+  text-align: center;
+  width: 80%;
+  height: 80%;
+}
+
+.statusBox-cpt {
+  background: green;
+  color: white;
+  font-size: 12px;
+  border-radius: 8px;
+  text-align: center;
+  width: 80%;
+  height: 80%;
+}
+
+.truncate {
+  width: 250px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.widget {
+  background: #ffffff;
+  font-size: 12px;
+  border-radius: 10px;
+  min-height:75px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.back{
+  margin-top: 8px;
+}
+
+hr{
+  margin: 16px 0px 8px 0px;
+  border-top: 1px solid lightgray;
+}
+
+ion-button{
+  font-weight: 500;
+  letter-spacing: 0;
+  text-transform: none;
+  align-self: center;
+}
